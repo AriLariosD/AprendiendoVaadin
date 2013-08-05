@@ -1,0 +1,10 @@
+.metadata/
+*.classpath
+*.project
+*.jsdtscope
+*/.settings/
+*/*/*/*/VAADIN/
+*/*/VAADIN/
+*/build/
+*/target/
+Servers/
